@@ -38,9 +38,7 @@
 
 
     .btn {
-        @include button (transparent, aliceblue){
-        }
-
+        @include button(transparent , aliceblue);
         &:hover {
             background-color: #3b3a3b;
         }

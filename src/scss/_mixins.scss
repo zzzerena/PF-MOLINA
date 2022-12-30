@@ -1,4 +1,4 @@
-@mixin button ($fondo, $color){
+@mixin button ($fondo , $color){
     background-color: $fondo;
     color: $color;
     width: 80px;
@@ -7,5 +7,4 @@
     border-radius: 5px;
     padding: 10px;
     justify-self: center;
-
 }

@@ -72,22 +72,14 @@
 }
 
 .formulario button:nth-child(7) {
-    grid-area: zona7;
+    @extend %boton;
     background-color: rgb(90, 2, 64);
-    border-radius: 5px;
-    margin: 10px;
     color: #b36f9c;
-    width: 80px;
-    height: 40px;
-    align-self: center;
-    justify-self: center;
-    border: 1px solid rgb(126, 0, 80);
-
+    grid-area: zona7;
     &:hover {
         background-color: #300824;
     }
 }
-
 
 .bodyContact {
     display: grid;
@@ -127,11 +119,10 @@ form {
 }
 
 
-.boton {
+.boton{
     width: 40px;
     height: 40px;
     text-decoration: none;
     color: white;
     font-size: 30px;
-
 }
