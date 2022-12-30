@@ -1,0 +1,21 @@
+@mixin button ($fondo, $color){
+    background-color: $fondo;
+    color: $color;
+    width: 80px;
+    height: 40px;
+    border: 1px solid rgb(161, 0, 113);
+    border-radius: 5px;
+    padding: 10px;
+    justify-self: center;
+
+}
+
+@mixin card($fondo){
+    background-color: $fondo;
+    width: 240px;
+    height: 353px;
+    border-radius: 11px;
+    overflow: auto;
+    border: 1px solid #a197aa8a;
+    box-shadow: 0 0 1em .4em #7054542a;
+}

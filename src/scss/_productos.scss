@@ -38,15 +38,9 @@
 
 
     .btn {
-        width: 80px;
-        height: 40px;
-        background-color: transparent;
-        color: aliceblue;
-        border: 1px solid rgb(161, 0, 113);
-        border-radius: 5px;
-        padding: 10px;
-        justify-self: center;
+        @include button (transparent, aliceblue){
 
+        }
         &:hover {
             background-color: #3b3a3b;
         }
@@ -64,15 +58,9 @@
         "btn";
 
     border: 1px solid rgb(212, 66, 146);
-    background-color: transparent;
-    width: 240px;
-    height: 353px;
-    border-radius: 11px;
-    overflow: auto;
-    border: 1px solid #a197aa8a;
-    box-shadow: 0 0 1em .4em #7054542a;
     overflow-x: hidden;
     overflow-y: hidden;
+    @include card(transparent)
 }
 
 .btn-input {

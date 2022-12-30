@@ -8,13 +8,58 @@
 
 
 <url>
-  <loc>https://zzzerena.github.io/PreEntrega3Molina/</loc>
-  <lastmod>2022-12-26T01:58:43+00:00</lastmod>
+  <loc>https://serenapfnetwork.000webhostapp.com/</loc>
+  <lastmod>2022-12-29T22:09:19+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://zzzerena.github.io/PreEntrega3Molina/index.html</loc>
-  <lastmod>2022-12-26T01:58:43+00:00</lastmod>
+  <loc>https://serenapfnetwork.000webhostapp.com/index.html</loc>
+  <lastmod>2022-12-29T22:09:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://serenapfnetwork.000webhostapp.com/paginas/gabinetes.html</loc>
+  <lastmod>2022-12-29T22:09:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://serenapfnetwork.000webhostapp.com/paginas/fuentes.html</loc>
+  <lastmod>2022-12-29T22:09:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://serenapfnetwork.000webhostapp.com/paginas/procesadores.html</loc>
+  <lastmod>2022-12-29T22:09:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://serenapfnetwork.000webhostapp.com/paginas/memorias.html</loc>
+  <lastmod>2022-12-29T22:09:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://serenapfnetwork.000webhostapp.com/paginas/mothers.html</loc>
+  <lastmod>2022-12-29T22:09:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://serenapfnetwork.000webhostapp.com/paginas/accesorios.html</loc>
+  <lastmod>2022-12-29T22:09:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://serenapfnetwork.000webhostapp.com/paginas/nosotros.html</loc>
+  <lastmod>2022-12-29T22:09:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://serenapfnetwork.000webhostapp.com/paginas/contacto.html</loc>
+  <lastmod>2022-12-29T22:09:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://serenapfnetwork.000webhostapp.com/paginas/ayuda.html</loc>
+  <lastmod>2022-12-29T22:09:19+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
