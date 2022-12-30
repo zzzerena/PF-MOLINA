@@ -9,17 +9,3 @@
     justify-self: center;
 
 }
-
-@mixin card ($fondo, $color){
-    background-color: $fondo;
-    color: $color;
-    width: 240px;
-    height: 353px;
-    border-radius: 11px;
-    overflow: auto;
-    border: 1px solid #a197aa8a;
-    box-shadow: 0 0 1em .4em #7054542a;
-    border: 1px solid rgb(212, 66, 146);
-    overflow-x: hidden;
-    overflow-y: hidden;
-}

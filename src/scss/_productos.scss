@@ -38,17 +38,16 @@
 
 
     .btn {
-        @include button (transparent, aliceblue) {}
+        @include button (transparent, aliceblue){
+        }
 
         &:hover {
             background-color: #3b3a3b;
         }
-
     }
 }
 
 .card {
-    @include card (transparent, white) {}
     display: grid;
     grid-template-columns: 1fr;
     grid-auto-rows: 215px 30px 50px 60px;
@@ -56,6 +55,16 @@
         "header"
         "texto"
         "btn";
+    border: 1px solid rgb(212, 66, 146);
+    background-color: transparent;
+    width: 240px;
+    height: 353px;
+    border-radius: 11px;
+    overflow: auto;
+    border: 1px solid #a197aa8a;
+    box-shadow: 0 0 1em .4em #7054542a;
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 .btn-input {
